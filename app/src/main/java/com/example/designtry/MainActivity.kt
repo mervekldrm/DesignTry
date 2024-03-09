@@ -13,6 +13,9 @@ class MainActivity : AppCompatActivity() {
 
         //width = wrap_content -> self
         //width = match_parent -> environment
-        //0dp -> match constraint
+        //0dp -> match constraint-mach parent
+
+        // padding -> inner space
+        // margin -> outer space
     }
 }
