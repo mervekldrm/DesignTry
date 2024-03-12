@@ -17,5 +17,8 @@ class MainActivity : AppCompatActivity() {
 
         // padding -> inner space
         // margin -> outer space
+
+        //Left-start-leading
+        //Right-end-trailing
     }
 }

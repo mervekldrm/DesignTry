@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DesignTry</string>
+    <string name="pizza_title">Etli Peynirli</string>
+    <string name="cheese_text">Peynir</string>
+    <string name="sausage_text">Sucuk</string>
+    <string name="olive_text">Zeytin</string>
+    <string name="pepper_text">Biber</string>
+    <string name="delivery_time">20 dakika</string>
+    <string name="delivery_title">Teslimat</string>
+    <string name="pizza_explanation">Et sever, pizzanla tanışmaya hazır ol!</string>
+    <string name="price_text">150₺</string>
+    <string name="button_text">SEPETE EKLE</string>
+
+
+</resources>

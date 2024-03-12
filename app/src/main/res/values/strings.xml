@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">DesignTry</string>
+    <string name="pizza_title">Beef Cheese</string>
+    <string name="cheese_text">Cheese</string>
+    <string name="sausage_text">Sausage</string>
+    <string name="olive_text">Olive</string>
+    <string name="pepper_text">Pepper</string>
+    <string name="delivery_time">20 min</string>
+    <string name="delivery_title">Delivery</string>
+    <string name="pizza_explanation">Meat lover, get ready to eat your pizza!</string>
+    <string name="price_text">$5.98</string>
+    <string name="button_text">ADD TO CART</string>
+
+
 </resources>
